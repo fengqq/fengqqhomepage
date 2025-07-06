@@ -1,80 +1,40 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Microfluidic Synthesis Method
+description: Microfluidic technology for precise control of nanoparticle structure and function in drug delivery
+img: assets/img/RNV.jpg
+importance: 4
+category: work
+# related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Nanoparticles are promising therapeutic platforms for drug delivery. However, controlling their physical properties—such as size, surface charge, rigidity, and internal structure—is crucial for optimizing their interaction with biological systems and improving therapeutic outcomes.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+While microfluidic synthesis is widely used for producing nanoparticles with uniform size and continuous production (a key factor in the clinical translation of lipid nanoparticle-based mRNA vaccines), limited attention has been given to the precise control of nanoparticle structure during synthesis. During my graduate studies, I developed microfluidic technology that allows for the precise control of nanoparticle structures directly on-chip.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I established methods to generate nanoparticles with tunable size, surface charge, rigidity, and core-shell configurations. These structural variations significantly influenced nano-bio interactions and drug delivery efficacy. My research demonstrated that small, rigid nanoparticles exhibit higher cellular uptake and improved tumor targeting efficiency compared to larger or more flexible ones.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+This work has important implications for the design of effective drug delivery systems and contributes to advancing the field of nanomedicine.
+
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/RNV.jpg" title="Microfluidic nanoparticle synthesis" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Microfluidic platform for precise control of nanoparticle structure and properties.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Selected Publications
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+1. Zhang, L.; **Feng, Q.** (Co-first author); Wang, J.; Sun, J.; Shi, X.; Jiang, X. Microfluidic synthesis of rigid nanovesicles for hydrophilic reagents delivery. *Angew. Chem. Int. Ed.* **2015**, *54*, 3952. PMID: 25704675.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+   *This paper introduces a microfluidic method to control nanoparticle core structures, leading to the development of rigid nanosized capsules for encapsulating various hydrophilic reagents, including proteins, small molecules, and nucleic acids.*
 
-{% raw %}
+2. **Feng, Q.**; Zhang, L.; Liu, C.; Li, X.; Hu, G.; Sun, J.; Jiang, X. Microfluidic based high throughput synthesis of lipid-polymer hybrid nanoparticles with tunable diameters. *Biomicrofluidics* **2015**, *9* (5), 052604. PMID: 26180574.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+   *This study presents a microfluidic method for tuning the size of core-shell type nanoparticles.*
 
-{% endraw %}
+3. **Feng, Q.**; Sun, J.; Jiang, X. Microfluidics-mediated assembly of functional nanoparticles for cancer-related pharmaceutical applications. *Nanoscale* **2016**, *8* (25), 12430-12443. PMID: 26864887.
+
+   *This publication summarizes basic physicochemical principles and biological applications of microfluidic platforms in nanoparticle formulation.*

@@ -1,81 +1,48 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
+title: Science for Everyone
+description: Connecting diverse audiences from high school students to professionals with real scientific projects
 img: assets/img/9.jpg
-importance: 2
-category: work
-giscus_comments: true
+importance: 6
+category: fun
+# related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Science has traditionally been perceived as an exclusive domain accessible only to those with advanced degrees and specialized training. However, the democratization of scientific knowledge and participation is crucial for fostering innovation, public understanding, and inspiring the next generation of researchers.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+I am passionate about creating platforms and initiatives that bridge the gap between cutting-edge research and diverse audiences. This includes developing educational programs that connect high school students with real scientific projects, creating accessible tools for citizen science, and building communities where anyone with curiosity can contribute to scientific discovery.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The goal is to break down barriers and create inclusive spaces where people from all backgrounds can engage with science meaningfully, whether through hands-on participation in research projects, interactive learning experiences, or collaborative problem-solving initiatives.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/9.jpg" title="Science for Everyone initiative" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Bridging the gap between cutting-edge research and diverse audiences through inclusive science education.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Key Initiatives
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+- **High School Research Programs**: Direct involvement of students in ongoing research projects with mentorship from graduate students and postdocs
+- **Citizen Science Platforms**: User-friendly tools that allow public participation in data collection and analysis
+- **Interactive Learning Modules**: Gamified experiences that teach complex scientific concepts through hands-on activities
+- **Community Science Events**: Workshops, hackathons, and collaborative projects open to all skill levels
+- **Mentorship Networks**: Connecting experienced researchers with newcomers to science
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Target Audiences
 
-{% raw %}
+- **High School Students**: Early exposure to real research and career pathways
+- **Undergraduates**: Hands-on experience beyond classroom learning
+- **Career Changers**: Opportunities to transition into scientific fields
+- **Retired Professionals**: Leveraging experience for scientific contribution
+- **Curious Public**: Engaging with science through accessible platforms
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Impact Goals
 
-{% endraw %}
+- **Diversity in STEM**: Increasing representation from underrepresented groups
+- **Scientific Literacy**: Improving public understanding of research and its importance
+- **Innovation Pipeline**: Creating pathways for new ideas and perspectives
+- **Community Engagement**: Building bridges between academia and society
+- **Lifelong Learning**: Fostering continuous curiosity and scientific thinking

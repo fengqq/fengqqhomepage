@@ -1,81 +1,38 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Acidity-Targeted Drug Delivery Systems
+description: Tumor acidity-targeted strategies for safer, more effective cancer therapy and drug resistance reversal
+img: assets/img/MCT1.jpg
 importance: 3
 category: work
+# related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Cancer therapies often suffer from systemic toxicity or unsatisfactory efficacy, limiting their therapeutic window. To address these challenges, I developed tumor acidity-targeted drug delivery strategies that modify the tissue tropism of therapeutics, thereby expanding the therapeutic window.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+For instance, stimulatory cytokines like interleukin-2 (IL-2) can augment lymphocyte-mediated anti-tumor responses but are hindered by systemic toxicity. I engineered a strategy to mask IL-2 toxicity in normal tissues, allowing it to be effective only in tumor. This resulted in a new IL-2 therapy with over 100-fold reduced toxicity. This work was recognized with a Young Investigator Award and is currently under further development.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Additionally, I tackled chemotherapy resistance by creating a pH-switchable drug delivery system that improves the retention of chemotherapeutic agents within cancer cells. This system significantly enhances anti-tumor efficacy by ensuring drugs remain inside cancer cells longer, maximizing their therapeutic impact. This approach offers a highly tumor-specific strategy compared to traditional drug design, and therapies based on this technology are under development by biotech companies.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/MCT1.jpg" title="Acidity-targeted drug delivery" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    pH-switchable nanoparticles for targeted drug delivery and reduced systemic toxicity.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Selected Publications
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+1. **Feng, Q.**; Huang, G.; Pantoja, R.; Sun, Z.; Li, W.; Torres, K.; Wilhelm, J.; Chen, Z.; Zhao, T.; Han, R.; Gao, J. Ultra-pH Sensitive Nanoparticles Increase Therapeutic Index of IL-2-Fc. *J. Immunother. Cancer* **10**, A1380 (2022).
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+   *This abstract presents a novel severe acidity-targeted strategy to control cytokine therapy toxicity, achieving over 100-fold decrease in systemic IFN-γ levels in vivo.*
 
-{% raw %}
+2. **Feng, Q.**; Liu, J.; Li, X.; Chen, Q.; Sun, J.; Shi, X.; Ding, B.; Yu, H.; Li, Y.; Jiang, X. One-Step Microfluidic Synthesis of Nanocomplex with Tunable Rigidity and Acid-Switchable Surface Charge for Overcoming Drug Resistance. *Small* **2017**, *13*, 1603109. PMID: 27943612.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+   *This paper describes an acidity-targeting strategy to improve chemotherapy effectiveness, achieving over 10-fold increase in tumor growth inhibition in vivo.*
 
-{% endraw %}
+3. Huang, T.; **Feng, Q.** (Co-first author); Wang, Z.; Li, W.; Sun, Z.; Wilhelm, J.; Huang, G.; Vo, T.; Sumer, B. D.; Gao, J. Tumor-Targeted Inhibition of Monocarboxylate Transporter 1 Improves T-Cell Immunotherapy of Solid Tumors. *Adv. Healthcare Mater.* **2021**, *10*, e2000549. PMID: 32431046.
+
+   *This work describes the tumor specific delivery of an inhibitor of lactic acid transporter to reverse tumor acidosis and related immunosuppression, improving antitumor efficacy at 50-fold reduced doses.*

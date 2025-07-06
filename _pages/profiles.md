@@ -1,28 +1,145 @@
 ---
-layout: profiles
+layout: page
 permalink: /people/
-title: people
-description: members of the lab or group
+title: People
+description: 
 nav: true
-nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+nav_order: 3
+toc:
+  sidebar: left
 ---
+
+## Current Team
+
+
+{% include team_member.liquid 
+   name="Qiang Feng, PhD" 
+   title="Assistant Professor" 
+   image="prof_pic.jpg"
+   research="Tumor immune metabolism, pH-responsive nanoparticles, cancer immunotherapy, Single-cell metabolic technology"%}
+
+
+<!-- 
+**PhD Students**
+
+{% include team_member.liquid 
+   name="Student Name" 
+   title="PhD Student (2023-Present)" 
+   image="student1.jpg"
+   research="Brief description of research focus"
+   email="student@utsouthwestern.edu" %}
+
+{% include team_member.liquid 
+   name="Student Name" 
+   title="PhD Student (2022-Present)" 
+   image="student2.jpg"
+   research="Brief description of research focus"
+   email="student@utsouthwestern.edu" %}
+
+**MS Students**
+
+{% include team_member.liquid 
+   name="Student Name" 
+   title="MS Student (2024-Present)" 
+   image="student3.jpg"
+   research="Brief description of research focus"
+   email="student@utsouthwestern.edu" %}
+-->
+
+
+<!-- 
+{% include team_member.liquid 
+   name="Dr. Postdoc Name" 
+   title="Postdoctoral Fellow (2023-Present)" 
+   image="postdoc1.jpg"
+   research="Brief description of research focus"
+   email="postdoc@utsouthwestern.edu" %}
+
+{% include team_member.liquid 
+   name="Dr. Postdoc Name" 
+   title="Postdoctoral Fellow (2022-Present)" 
+   image="postdoc2.jpg"
+   research="Brief description of research focus"
+   email="postdoc@utsouthwestern.edu" %}
+-->
+
+
+<!-- 
+{% include team_member.liquid 
+   name="Student Name" 
+   title="Undergraduate Researcher (2024-Present)" 
+   image="undergrad1.jpg"
+   research="Brief description of research focus" %}
+
+{% include team_member.liquid 
+   name="Student Name" 
+   title="Undergraduate Researcher (2023-Present)" 
+   image="undergrad2.jpg"
+   research="Brief description of research focus" %}
+-->
+<!-- ## Previous member-->
+
+<!-- 
+{% include team_member.liquid 
+   name="Dr. Alumni Name" 
+   title="Postdoctoral Fellow (2020-2023)" 
+   image="alumni1.jpg"
+   current_position="Current position and institution"
+   research="Brief description of research focus" %}
+
+{% include team_member.liquid 
+   name="Dr. Alumni Name" 
+   title="Postdoctoral Fellow (2019-2022)" 
+   image="alumni2.jpg"
+   current_position="Current position and institution"
+   research="Brief description of research focus" %}
+-->
+
+
+<!-- 
+{% include team_member.liquid 
+   name="Dr. Alumni Name" 
+   title="PhD Student (2018-2023)" 
+   image="alumni3.jpg"
+   current_position="Current position and institution"
+   thesis="Thesis title" %}
+
+{% include team_member.liquid 
+   name="Dr. Alumni Name" 
+   title="MS Student (2021-2023)" 
+   image="alumni4.jpg"
+   current_position="Current position and institution"
+   thesis="Thesis title" %}
+-->
+
+
+<!-- 
+{% include team_member.liquid 
+   name="Student Name" 
+   title="Undergraduate Researcher (2022-2024)" 
+   image="alumni5.jpg"
+   current_position="Current position and institution" %}
+
+{% include team_member.liquid 
+   name="Student Name" 
+   title="Undergraduate Researcher (2021-2023)" 
+   image="alumni6.jpg"
+   current_position="Current position and institution" %}
+-->
+
+---
+## Join us
+
+We are always looking for motivated students and researchers to join us! 
+
+**Current Openings:**
+- PhD students in Biomedical Engineering
+- Postdoctoral researchers in cancer immunotherapy
+- Undergraduate research assistants
+
+**Research Areas:**
+- Tumor immune metabolism
+- pH-responsive drug delivery systems
+- Microfluidics and nanotechnology
+- Cancer immunotherapy
+- Biomaterials for cancer therapy

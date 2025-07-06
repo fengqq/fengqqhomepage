@@ -1,81 +1,78 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
-importance: 1
-category: work
-related_publications: true
+title: Single Cell for Everyone
+description: Democratizing single cell research through accessible toolkits and no-coding analysis platforms
+img: assets/img/8.jpg
+importance: 5
+category: fun
+# related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Single cell analysis has revolutionized our understanding of cellular heterogeneity and disease mechanisms. However, the computational complexity and technical barriers associated with analyzing large-scale single cell datasets often limit accessibility for researchers without extensive coding experience.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+I am developing comprehensive toolkits that democratize single cell research by eliminating the need for programming skills while maintaining analytical rigor. These platforms provide intuitive graphical interfaces for data preprocessing, quality control, dimensionality reduction, clustering, and visualization of single cell transcriptomics, proteomics, and spatial transcriptomics datasets.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## iSNAP: Interactive Single-cell No-coding Analysis Pipeline
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+iSNAP is a user-friendly platform that provides a complete workflow for single cell data analysis without requiring any coding expertise. The platform incorporates automated workflows for common analysis tasks while maintaining flexibility for advanced users.
+
+**Key Features:**
+- **Intuitive Data Import**: Drag-and-drop functionality for various single cell data formats (10X, Seurat, AnnData)
+- **Automated Quality Control**: Built-in algorithms for cell and gene filtering with interactive quality metrics
+- **Interactive Visualization**: Real-time exploration of clustering, trajectory analysis, and gene expression patterns
+- **Multi-Omics Integration**: Support for transcriptomics, proteomics, and spatial data
+- **Publication-Ready Outputs**: Automated generation of high-quality figures and reports
+- **Cloud-Based Processing**: Scalable computing resources for large datasets
+
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/isnap.png" title="iSNAP platform interface" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    iSNAP: Interactive Single-cell No-coding Analysis Pipeline for democratizing single cell research.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+
+## MASK2SC: Mask2SC Protocol for Spatial Transcriptomics
+
+MASK2SC is a protocol for integrating external information with Xenium spatial transcriptomics data at single-cell resolution. Targeted investigation of spatial transcriptomic data benefits from versatile integration of customized external information.
+
+**Protocol Features:**
+- **Image Registration**: Seamless alignment of immunohistochemistry data with Xenium datasets
+- **Irregular Field-of-View Annotations**: Support for custom spatial annotations and region-of-interest analysis
+- **Single-Cell Resolution Integration**: Precise mapping of external data to individual cells
+- **Scanpy Compatibility**: Direct integration into standard single cell analysis workflows
+- **Open-Source Implementation**: Built using widely available tools and libraries
+
+**Applications Demonstrated:**
+- Head and neck squamous cell carcinoma sample analysis
+- Spatial heterogeneity investigation
+- Multi-modal data integration
+- Targeted region analysis
+
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/mask2sc.png" title="mask2sc platform" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    MASK2SC: integrating external information with Xenium data at single-cell resolution.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Target Applications
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+- **Cancer Research**: Tumor heterogeneity analysis and biomarker discovery
+- **Immunology**: Immune cell profiling and response characterization
+- **Developmental Biology**: Cell fate mapping and differentiation trajectories
+- **Drug Discovery**: Target identification and mechanism of action studies
+- **Clinical Research**: Patient stratification and precision medicine approaches
+- **Spatial Biology**: Tissue architecture and cellular microenvironment analysis
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Impact and Accessibility
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+These platforms are designed to:
+- **Remove Technical Barriers**: Enable researchers without computational backgrounds to conduct sophisticated single cell analyses
+- **Accelerate Discovery**: Streamline workflows to focus on biological insights rather than technical implementation
+- **Foster Collaboration**: Create common analysis frameworks that facilitate data sharing and reproducibility
+- **Expand Participation**: Make single cell technologies accessible to smaller labs and diverse research communities

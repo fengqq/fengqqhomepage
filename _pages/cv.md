@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Qiang's cv
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+nav_order: 2
+cv_pdf: # Add your CV PDF filename here (e.g., "feng_cv.pdf")
+description: Academic CV of Qiang Feng, PhD - Assistant Professor of Biomedical Engineering at UT Southwestern Medical Center, specializing in microfluidics, nanotechnology, and cancer therapeutics.
 toc:
   sidebar: left
 ---

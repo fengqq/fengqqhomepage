@@ -2,96 +2,234 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Qiang Feng, PhD
+    - name: Current Position
+      value: Assistant Professor
+    - name: Institution
+      value: University of Texas Southwestern Medical Center
+    - name: Department
+      value: Biomedical Engineering, Simmons Comprehensive Cancer Center
     - name: Languages
-      value: English, German
+      value: English, Chinese
+
+- title: Summary of Contributions
+  type: list
+  contents:
+    - My research centers on exploring the abundance and immunological functions of key metabolites in tumors. By designing multi-chromatic pH nanosensors with high spatial resolution, I uncovered the presence of severely polarized acidity (pHe<5.3) around tumor cells—more than one order of magnitude higher than previous understanding (Nature Biomed. Eng. 2024).    - By combining insights from cancer biology, clinical observations, and immune metabolism, I demonstrated that severe acidity is an underestimated immunosuppressor, while sodium lactate, as its anionic counterpart, plays a previously unrecognized immune-protective role (Nature Commun. 2022).
+     I further led the development of multiple acidity-targeted immunotherapy nanodrugs and tumor metabolism-regulating immune adjuvants based on these findings.
+     To date, I have published over 30 peer-reviewed papers in leading journals such as Nature Biomed. Eng. and Nature Commun., accumulating over 4,000 citations. I have also filed three patents for my discoveries.
+     In addition to the scientific innovation, I have also mentored students from diverse backgrounds and will continue to train a diverse group of young scientists, providing them with the tools and mentorship to succeed in cancer research.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Nanoscience and Technology
+      institution: National Center for Nano Science and Technology, Beijing, China
+      year: 2014-2017
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Thesis: Microfluidics-mediated Assembly of Functional Nanoparticles for Cancer-related Applications"
+        - "Advisors: Profs. Xingyu Jiang and Jiashu Sun"
+    - title: MS in Pharmaceutics
+      institution: Peking University, Beijing, China
+      year: 2012-2014
       description:
-        - Description 1.
-        - Description 2.
+        - "Thesis: Surface Modified Core-shell Type Nanoparticles for The Co-delivery of Paclitaxel and SiRNA"
+        - "Advisor: Prof. Jiancheng Wang"
+    - title: BS in Pharmaceutical Sciences
+      institution: Peking University, Beijing, China
+      year: 2008-2012
+      description:
+        - Graduated with honors
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Professor
+      institution: University of Texas Southwestern Medical Center, Dallas, United States
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Leading research in tumor immune metabolism and acidity-targeted immunotherapy
+        - Developing novel nanodrugs and immune adjuvants for cancer therapy
+        - Mentoring graduate students and postdoctoral researchers
+    - title: Research Scientist
+      institution: University of Texas Southwestern Medical Center, Dallas, United States
+      year: 2023 - 2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Advanced research in tumor immune metabolism and cytokine therapy
+        - Developed tumor-targeted cytokine therapy with large therapeutic window
+    - title: Postdoctoral Fellow
+      institution: University of Texas Southwestern Medical Center, Dallas, United States
+      year: 2017 - 2023
       description:
+        - "Advisor: Prof. Jinming Gao"
+        - "Tumor Immune Metabolism: Delineated the spatial and functional heterogeneity of lactic acid"
+        - "Cytokine Therapy: Developed tumor-targeted cytokine therapy with large therapeutic window"
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Graduate Researcher
+      institution: National Center for Nano Science and Technology, Beijing, China
+      year: 2014 - 2017
+      description:
+        - "Advisors: Profs. Xingyu Jiang and Jiashu Sun"
+        - "Microfluidics: Developed microfluidic chips for size-controlled fabrication of nanoparticles"
+        - "Bio-nano Interactions: Investigated the impact of nanoparticle structure on biological functionalities"
+    - title: Graduate Researcher
+      institution: Peking University, Beijing, China
+      year: 2012 - 2014
+      description:
+        - "Advisor: Prof. Jiancheng Wang"
+        - "Drug delivery: Engineered liposomes for tumor targeted delivery of chemotherapy agents and siRNA"
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Tumor Immune Metabolism
+      items:
+        - Multi-chromatic pH nanosensors with high spatial resolution
+        - Severely polarized acidity around tumor cells
+        - Immunosuppressive effects of tumor acidity
+        - Immune-protective role of sodium lactate
+    - title: Cancer Immunotherapy
+      items:
+        - Acidity-targeted immunotherapy nanodrugs
+        - Tumor metabolism-regulating immune adjuvants
+        - Tumor-targeted cytokine therapy
+        - pH-responsive drug delivery systems
+    - title: Microfluidics and Nanotechnology
+      items:
+        - Microfluidic synthesis of functional nanoparticles
+        - Size-controlled fabrication of nanoparticles
+        - Bio-nano interactions and biological functionalities
+
+- title: Selected Publications
+  type: time_table
+  contents:
+    - title: "Severely polarized extracellular acidity around tumour cells"
+      institution: Nature Biomedical Engineering
+      year: 2024
+      description:
+        - Uncovered severely polarized acidity (pHe<5.3) around tumor cells
+        - More than one order of magnitude higher than previous understanding
+    - title: "Lactate increases stemness of CD8+ T cells to augment anti-tumor immunity"
+      institution: Nature Communications
+      year: 2022
+      description:
+        - Demonstrated lactate's role in enhancing CD8+ T cell stemness
+        - Revealed immune-protective role of sodium lactate
+    - title: "Tumor-Targeted Inhibition of Monocarboxylate Transporter 1 Improves T-Cell Immunotherapy"
+      institution: Advanced Healthcare Materials
+      year: 2021
+      description:
+        - Developed MCT1 inhibition strategy for improved immunotherapy
+        - Enhanced T-cell function in solid tumors
+    - title: "Transistor-like Ultra-pH-Sensitive Polymeric Nanoparticles"
+      institution: Accounts of Chemical Research
+      year: 2019
+      description:
+        - Pioneered ultra-pH-sensitive nanoparticle technology
+        - Advanced drug delivery systems for cancer therapy
+    - title: "One-Step Microfluidic Synthesis of Nanocomplex with Tunable Rigidity"
+      institution: Small
+      year: 2017
+      description:
+        - Developed microfluidic synthesis of tunable rigidity nanoparticles
+        - Acid-switchable surface charge for enhanced cellular uptake
+    - title: "Microfluidic synthesis of rigid nanovesicles for hydrophilic reagents delivery"
+      institution: Angewandte Chemie International Edition
+      year: 2015
+      description:
+        - Pioneered microfluidic approach for nanoparticle synthesis
+        - Achieved precise control over particle size and composition
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Young Investigator Award, 37th Society for Immunotherapy of Cancer Annual Meeting
+    - year: 2016
       items:
-        - Max Planck Medal
+        - Merit Student, Chinese Academy of Sciences
+    - year: 2015
+      items:
+        - Graduate Student Award, Chinese Pharmaceutical Conference
+    - year: 2013
+      items:
+        - Daewoong Scholarship, Peking University
+    - year: 2011
+      items:
+        - Daewoong Scholarship, Peking University
+        - ShuRen Scholarship, Peking University
+    - year: 2009
+      items:
+        - May Fourth Scholarship, Peking University
+        - Merit Student, Peking University
 
-- title: Academic Interests
+- title: Patents
+  type: time_table
+  contents:
+    - title: "A Microfluidic Chip and Method of Use Thereof in the Preparation of Nanocapsule"
+      institution: CN104549585B
+      year: 2015
+      description:
+        - Chinese patent for microfluidic nanocapsule preparation technology
+    - title: "pH Responsive Block Copolymer Compositions and Micelles that Inhibit MCT 1 and Related Protein"
+      institution: US20210338579A1
+      year: 2021
+      description:
+        - US patent application for pH-responsive drug delivery systems
+    - title: "Ultra pH-sensitive Micelles Encapsulating Cytokines for Treatment of Cancer"
+      institution: PCT/US2022/079899
+      year: 2022
+      description:
+        - International patent application for pH-sensitive cytokine delivery
+
+- title: Presentations and Posters
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Oral Presentations
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - "Immuno-oncology Translational Network Semi-Annual Meeting, Gaithersburg, United States (2023)"
+        - "37th Society of Immunotherapy of Cancer Annual Conference, Boston, United States (2022)"
+        - "International Conference of Microfluidics and Nanofluidics, Dalian, China (2016)"
+        - "Chinese Pharmaceutical Conference, Hangzhou, China (2015)"
+    - title: Poster Presentations
       items:
-        - Description 1.
-        - Description 2.
+        - "Keystone Symposia Conference Single Cell Biology, Breckenridge, United States (2019)"
+        - "ChinaNano 2017, Beijing, China (2017)"
+        - "NanoDDS16, Baltimore, United States (2016)"
+        - "ChinaNano 2015, Beijing, China (2015)"
+        - "ChinaNanomedicine 2015, Hangzhou, China (2015)"
 
-- title: Other Interests
-  type: list
+- title: Services
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Journal Reviewer
+      items:
+        - "ACS Applied Materials and Interface"
+        - "Theranostics"
+        - "Nanoscale"
+        - "Trends in Analytical Chemistry"
+        - "Journal of Material Sciences B"
+        - "International Journal of Nanomedicine"
+        - "Scientific Reports"
+        - "RSC Advances"
+        - "Electrophoresis"
+        - "MedChemComm"
+        - "Journal of Materials Science & Technology"
+        - "Fibers and Polymers"
+        - "Advanced Science"
+        - "Molecular Cancer"
+    - title: Guest Topic Editor
+      items:
+        - "Frontiers in Pharmacology special issue 'Drug Discovery and Nano Delivery of Natural Products'"
+        - "Decoding the immunotherapy paradox: integrative approaches for balancing efficacy and immunotherapy-associated adverse events"
+
+#- title: Teaching and Mentoring
+#  type: list
+#  contents:
+#    - <u>Graduate Students Mentored:</u> Multiple PhD and MS students from diverse backgrounds
+#    - <u>Postdoctoral Researchers:</u> Training young scientists in cancer research
+#    - <u>Research Focus:</u> Providing tools and mentorship for success in cancer research

@@ -1,81 +1,40 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Severe Acidity at Single-cell Resolution
+description: Ultra-pH sensitive nanoparticles reveal severe tumor acidity and its impact on immunosuppression
+img: assets/img/SPEAR.png
 importance: 1
 category: work
-related_publications: true
+# related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Proton concentration or pH is a fundamental physiological parameter affecting enzyme activity, cell metabolism, and tissue homeostasis. While traditional methods measure pH in large solution volumes, accurately probing pH at high spatial resolution in specific environments, such as the tumor extracellular environment, remains a challenge.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+To overcome this, I designed methodologies based on ultra-pH sensitive (UPS) nanoparticle technology, which leverages a signal amplification strategy to detect pH thresholds with a resolution of 0.2 pH units. By incorporating a 3D culture and spraying design, I further enabled sub-micron spatial resolution measurements in both cell cultures and ex vivo patient tumor samples.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+A major discovery from this innovation is the identification of severely polarized extracellular acidic region (SPEAR) surrounding cancer cells, where pH falls below 5.3— over 1.5 pH unit lower than previously reported (6.8). This work underscores the success of pegsitacianine, a pH nanosensor with a pH transition at 5.3, which has shown robust detection of various cancers and received Breakthrough Therapy Designation from the Food and Drug Administration.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+Additionally, I found that severe acidity induces significant T cell death and T cell exclusion, suggesting it is an underestimated physiological signal in immunosuppression.
+
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/SPEAR.png" title="Ultra-pH sensitive nanoparticle technology" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Ultra-pH sensitive nanoparticles enable sub-micron spatial resolution pH measurements in tumor microenvironment.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Selected Publications
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+1. **Feng, Q.**; Bennett, Z.; Grichuk, A.; Pantoja, R.; Huang, T.; Faubert, B.; Huang, G.; Chen, M.; DeBerardinis, R. J.; Sumer, B. D.; Gao, J. Severely polarized extracellular acidity around tumour cells. *Nat. Biomed. Eng.* **2024**, *8*, 787. PMID: 38438799.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+   *This study revealed the polarized secretion of lactic acid from cancer cells, identifying a severe acidic pH in tumor microenvironment and its impact on immunosuppression.*
 
-{% raw %}
+2. **Feng, Q.**; Wilhelm, J.; Gao, J. Transistor-like Ultra-pH-Sensitive Polymeric Nanoparticles. *Acc. Chem. Res.* **2019**, *52*, 1485. PMID: 31067025.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+   *This paper summarizes the design principles and applications of ultra-pH-sensitive nanoparticles in clinical and biological research.*
 
-{% endraw %}
+3. Bennett, Z. T.; **Feng, Q.**; Bishop, J. A.; Huang, G.; Sumer, B. D.; Gao, J. Detection of Lymph Node Metastases by Ultra-pH-Sensitive Polymeric Nanoparticles. *Theranostics* **2020**, *10*, 3340. PMID: 32194872.
+
+   *This work demonstrates the imaging of acidity in tumors that have invaded to lymph nodes using ultra-pH-sensitive nanoparticles.*
