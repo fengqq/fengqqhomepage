@@ -16,9 +16,9 @@
   type: list
   contents:
     - My research centers on exploring the abundance and immunological functions of key metabolites in tumors. By designing multi-chromatic pH nanosensors with high spatial resolution, I uncovered the presence of severely polarized acidity (pHe<5.3) around tumor cells—more than one order of magnitude higher than previous understanding (Nature Biomed. Eng. 2024).    - By combining insights from cancer biology, clinical observations, and immune metabolism, I demonstrated that severe acidity is an underestimated immunosuppressor, while sodium lactate, as its anionic counterpart, plays a previously unrecognized immune-protective role (Nature Commun. 2022).
-     I further led the development of multiple acidity-targeted immunotherapy nanodrugs and tumor metabolism-regulating immune adjuvants based on these findings.
-     To date, I have published over 30 peer-reviewed papers in leading journals such as Nature Biomed. Eng. and Nature Commun., accumulating over 4,000 citations. I have also filed three patents for my discoveries.
-     In addition to the scientific innovation, I have also mentored students from diverse backgrounds and will continue to train a diverse group of young scientists, providing them with the tools and mentorship to succeed in cancer research.
+      I further led the development of multiple acidity-targeted immunotherapy nanodrugs and tumor metabolism-regulating immune adjuvants based on these findings.
+      To date, I have published over 30 peer-reviewed papers in leading journals such as Nature Biomed. Eng. and Nature Commun., accumulating over 4,000 citations. I have also filed three patents for my discoveries.
+      In addition to the scientific innovation, I have also mentored students from diverse backgrounds and will continue to train a diverse group of young scientists, providing them with the tools and mentorship to succeed in cancer research.
 
 - title: Education
   type: time_table
@@ -226,7 +226,6 @@
       items:
         - "Frontiers in Pharmacology special issue 'Drug Discovery and Nano Delivery of Natural Products'"
         - "Decoding the immunotherapy paradox: integrative approaches for balancing efficacy and immunotherapy-associated adverse events"
-
 #- title: Teaching and Mentoring
 #  type: list
 #  contents:

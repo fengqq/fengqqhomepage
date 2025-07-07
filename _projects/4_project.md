@@ -27,14 +27,14 @@ This work has important implications for the design of effective drug delivery s
 
 ## Selected Publications
 
-1. Zhang, L.; **Feng, Q.** (Co-first author); Wang, J.; Sun, J.; Shi, X.; Jiang, X. Microfluidic synthesis of rigid nanovesicles for hydrophilic reagents delivery. *Angew. Chem. Int. Ed.* **2015**, *54*, 3952. PMID: 25704675.
+1. Zhang, L.; **Feng, Q.** (Co-first author); Wang, J.; Sun, J.; Shi, X.; Jiang, X. Microfluidic synthesis of rigid nanovesicles for hydrophilic reagents delivery. _Angew. Chem. Int. Ed._ **2015**, _54_, 3952. PMID: 25704675.
 
-   *This paper introduces a microfluidic method to control nanoparticle core structures, leading to the development of rigid nanosized capsules for encapsulating various hydrophilic reagents, including proteins, small molecules, and nucleic acids.*
+   _This paper introduces a microfluidic method to control nanoparticle core structures, leading to the development of rigid nanosized capsules for encapsulating various hydrophilic reagents, including proteins, small molecules, and nucleic acids._
 
-2. **Feng, Q.**; Zhang, L.; Liu, C.; Li, X.; Hu, G.; Sun, J.; Jiang, X. Microfluidic based high throughput synthesis of lipid-polymer hybrid nanoparticles with tunable diameters. *Biomicrofluidics* **2015**, *9* (5), 052604. PMID: 26180574.
+2. **Feng, Q.**; Zhang, L.; Liu, C.; Li, X.; Hu, G.; Sun, J.; Jiang, X. Microfluidic based high throughput synthesis of lipid-polymer hybrid nanoparticles with tunable diameters. _Biomicrofluidics_ **2015**, _9_ (5), 052604. PMID: 26180574.
 
-   *This study presents a microfluidic method for tuning the size of core-shell type nanoparticles.*
+   _This study presents a microfluidic method for tuning the size of core-shell type nanoparticles._
 
-3. **Feng, Q.**; Sun, J.; Jiang, X. Microfluidics-mediated assembly of functional nanoparticles for cancer-related pharmaceutical applications. *Nanoscale* **2016**, *8* (25), 12430-12443. PMID: 26864887.
+3. **Feng, Q.**; Sun, J.; Jiang, X. Microfluidics-mediated assembly of functional nanoparticles for cancer-related pharmaceutical applications. _Nanoscale_ **2016**, _8_ (25), 12430-12443. PMID: 26864887.
 
-   *This publication summarizes basic physicochemical principles and biological applications of microfluidic platforms in nanoparticle formulation.*
+   _This publication summarizes basic physicochemical principles and biological applications of microfluidic platforms in nanoparticle formulation._

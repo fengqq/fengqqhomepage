@@ -27,14 +27,14 @@ Additionally, I found that severe acidity induces significant T cell death and T
 
 ## Selected Publications
 
-1. **Feng, Q.**; Bennett, Z.; Grichuk, A.; Pantoja, R.; Huang, T.; Faubert, B.; Huang, G.; Chen, M.; DeBerardinis, R. J.; Sumer, B. D.; Gao, J. Severely polarized extracellular acidity around tumour cells. *Nat. Biomed. Eng.* **2024**, *8*, 787. PMID: 38438799.
+1. **Feng, Q.**; Bennett, Z.; Grichuk, A.; Pantoja, R.; Huang, T.; Faubert, B.; Huang, G.; Chen, M.; DeBerardinis, R. J.; Sumer, B. D.; Gao, J. Severely polarized extracellular acidity around tumour cells. _Nat. Biomed. Eng._ **2024**, _8_, 787. PMID: 38438799.
 
-   *This study revealed the polarized secretion of lactic acid from cancer cells, identifying a severe acidic pH in tumor microenvironment and its impact on immunosuppression.*
+   _This study revealed the polarized secretion of lactic acid from cancer cells, identifying a severe acidic pH in tumor microenvironment and its impact on immunosuppression._
 
-2. **Feng, Q.**; Wilhelm, J.; Gao, J. Transistor-like Ultra-pH-Sensitive Polymeric Nanoparticles. *Acc. Chem. Res.* **2019**, *52*, 1485. PMID: 31067025.
+2. **Feng, Q.**; Wilhelm, J.; Gao, J. Transistor-like Ultra-pH-Sensitive Polymeric Nanoparticles. _Acc. Chem. Res._ **2019**, _52_, 1485. PMID: 31067025.
 
-   *This paper summarizes the design principles and applications of ultra-pH-sensitive nanoparticles in clinical and biological research.*
+   _This paper summarizes the design principles and applications of ultra-pH-sensitive nanoparticles in clinical and biological research._
 
-3. Bennett, Z. T.; **Feng, Q.**; Bishop, J. A.; Huang, G.; Sumer, B. D.; Gao, J. Detection of Lymph Node Metastases by Ultra-pH-Sensitive Polymeric Nanoparticles. *Theranostics* **2020**, *10*, 3340. PMID: 32194872.
+3. Bennett, Z. T.; **Feng, Q.**; Bishop, J. A.; Huang, G.; Sumer, B. D.; Gao, J. Detection of Lymph Node Metastases by Ultra-pH-Sensitive Polymeric Nanoparticles. _Theranostics_ **2020**, _10_, 3340. PMID: 32194872.
 
-   *This work demonstrates the imaging of acidity in tumors that have invaded to lymph nodes using ultra-pH-sensitive nanoparticles.*
+   _This work demonstrates the imaging of acidity in tumors that have invaded to lymph nodes using ultra-pH-sensitive nanoparticles._

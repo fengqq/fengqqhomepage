@@ -25,14 +25,14 @@ This discovery provides evidence of an unrecognized role for lactate in promotin
 
 ## Selected Publications and Patent
 
-1. **Feng, Q.**; Liu, Z.; Yu, X.; Huang, T.; Chen, J.; Wang, J.; Wilhelm, J.; Li, S.; Song, J.; Li, W.; Sun, Z.; Sumer, B. D.; Li, B.; Fu, Y. X.; Gao, J. Lactate increases stemness of CD8+ T cells to augment anti-tumor immunity. *Nat. Commun.* **2022**, *13*, 4981. PMID: 36068198.
+1. **Feng, Q.**; Liu, Z.; Yu, X.; Huang, T.; Chen, J.; Wang, J.; Wilhelm, J.; Li, S.; Song, J.; Li, W.; Sun, Z.; Sumer, B. D.; Li, B.; Fu, Y. X.; Gao, J. Lactate increases stemness of CD8+ T cells to augment anti-tumor immunity. _Nat. Commun._ **2022**, _13_, 4981. PMID: 36068198.
 
-   *This study discovered the immune-protective role of lactate, without the acidic counterpart, by enhancing the stemness of CD8+ T cells.*
+   _This study discovered the immune-protective role of lactate, without the acidic counterpart, by enhancing the stemness of CD8+ T cells._
 
-2. Huang, T.; **Feng, Q.** (Co-first author); Wang, Z.; Li, W.; Sun, Z.; Wilhelm, J.; Huang, G.; Vo, T.; Sumer, B. D.; Gao, J. Tumor-Targeted Inhibition of Monocarboxylate Transporter 1 Improves T-Cell Immunotherapy of Solid Tumors. *Adv. Healthcare Mater.* **2021**, *10*, e2000549. PMID: 32431046.
+2. Huang, T.; **Feng, Q.** (Co-first author); Wang, Z.; Li, W.; Sun, Z.; Wilhelm, J.; Huang, G.; Vo, T.; Sumer, B. D.; Gao, J. Tumor-Targeted Inhibition of Monocarboxylate Transporter 1 Improves T-Cell Immunotherapy of Solid Tumors. _Adv. Healthcare Mater._ **2021**, _10_, e2000549. PMID: 32431046.
 
-   *This work describes the tumor specific delivery of an inhibitor of lactic acid transporter to reverse tumor acidosis and related immunosuppression, improving antitumor efficacy at 50-fold reduced doses.*
+   _This work describes the tumor specific delivery of an inhibitor of lactic acid transporter to reverse tumor acidosis and related immunosuppression, improving antitumor efficacy at 50-fold reduced doses._
 
 3. **pH Responsive Block Copolymer Compositions and Micelles that Inhibit MCT 1 and Related Protein**, US20210338579A1.
 
-   *Patent related to tumor-targeted inhibition of monocarboxylate transporter.*
+   _Patent related to tumor-targeted inhibition of monocarboxylate transporter._

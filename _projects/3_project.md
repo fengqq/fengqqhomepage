@@ -25,14 +25,14 @@ Additionally, I tackled chemotherapy resistance by creating a pH-switchable drug
 
 ## Selected Publications
 
-1. **Feng, Q.**; Huang, G.; Pantoja, R.; Sun, Z.; Li, W.; Torres, K.; Wilhelm, J.; Chen, Z.; Zhao, T.; Han, R.; Gao, J. Ultra-pH Sensitive Nanoparticles Increase Therapeutic Index of IL-2-Fc. *J. Immunother. Cancer* **10**, A1380 (2022).
+1. **Feng, Q.**; Huang, G.; Pantoja, R.; Sun, Z.; Li, W.; Torres, K.; Wilhelm, J.; Chen, Z.; Zhao, T.; Han, R.; Gao, J. Ultra-pH Sensitive Nanoparticles Increase Therapeutic Index of IL-2-Fc. _J. Immunother. Cancer_ **10**, A1380 (2022).
 
-   *This abstract presents a novel severe acidity-targeted strategy to control cytokine therapy toxicity, achieving over 100-fold decrease in systemic IFN-γ levels in vivo.*
+   _This abstract presents a novel severe acidity-targeted strategy to control cytokine therapy toxicity, achieving over 100-fold decrease in systemic IFN-γ levels in vivo._
 
-2. **Feng, Q.**; Liu, J.; Li, X.; Chen, Q.; Sun, J.; Shi, X.; Ding, B.; Yu, H.; Li, Y.; Jiang, X. One-Step Microfluidic Synthesis of Nanocomplex with Tunable Rigidity and Acid-Switchable Surface Charge for Overcoming Drug Resistance. *Small* **2017**, *13*, 1603109. PMID: 27943612.
+2. **Feng, Q.**; Liu, J.; Li, X.; Chen, Q.; Sun, J.; Shi, X.; Ding, B.; Yu, H.; Li, Y.; Jiang, X. One-Step Microfluidic Synthesis of Nanocomplex with Tunable Rigidity and Acid-Switchable Surface Charge for Overcoming Drug Resistance. _Small_ **2017**, _13_, 1603109. PMID: 27943612.
 
-   *This paper describes an acidity-targeting strategy to improve chemotherapy effectiveness, achieving over 10-fold increase in tumor growth inhibition in vivo.*
+   _This paper describes an acidity-targeting strategy to improve chemotherapy effectiveness, achieving over 10-fold increase in tumor growth inhibition in vivo._
 
-3. Huang, T.; **Feng, Q.** (Co-first author); Wang, Z.; Li, W.; Sun, Z.; Wilhelm, J.; Huang, G.; Vo, T.; Sumer, B. D.; Gao, J. Tumor-Targeted Inhibition of Monocarboxylate Transporter 1 Improves T-Cell Immunotherapy of Solid Tumors. *Adv. Healthcare Mater.* **2021**, *10*, e2000549. PMID: 32431046.
+3. Huang, T.; **Feng, Q.** (Co-first author); Wang, Z.; Li, W.; Sun, Z.; Wilhelm, J.; Huang, G.; Vo, T.; Sumer, B. D.; Gao, J. Tumor-Targeted Inhibition of Monocarboxylate Transporter 1 Improves T-Cell Immunotherapy of Solid Tumors. _Adv. Healthcare Mater._ **2021**, _10_, e2000549. PMID: 32431046.
 
-   *This work describes the tumor specific delivery of an inhibitor of lactic acid transporter to reverse tumor acidosis and related immunosuppression, improving antitumor efficacy at 50-fold reduced doses.*
+   _This work describes the tumor specific delivery of an inhibitor of lactic acid transporter to reverse tumor acidosis and related immunosuppression, improving antitumor efficacy at 50-fold reduced doses._
