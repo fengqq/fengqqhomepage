@@ -17,7 +17,7 @@ toc:
    image="prof_pic.jpg"
    research="Tumor immune metabolism, pH-responsive nanoparticles, cancer immunotherapy, Single-cell metabolic technology"%}
 
-<!--
+{% comment %}
 **PhD Students**
 
 {% include team_member.liquid
@@ -42,9 +42,9 @@ toc:
    image="student3.jpg"
    research="Brief description of research focus"
    email="student@utsouthwestern.edu" %}
--->
+{% endcomment %}
 
-<!--
+{% comment %}
 {% include team_member.liquid
    name="Dr. Postdoc Name"
    title="Postdoctoral Fellow (2023-Present)"
@@ -58,9 +58,9 @@ toc:
    image="postdoc2.jpg"
    research="Brief description of research focus"
    email="postdoc@utsouthwestern.edu" %}
--->
+{% endcomment %}
 
-<!--
+{% comment %}
 {% include team_member.liquid
    name="Student Name"
    title="Undergraduate Researcher (2024-Present)"
@@ -72,10 +72,10 @@ toc:
    title="Undergraduate Researcher (2023-Present)"
    image="undergrad2.jpg"
    research="Brief description of research focus" %}
--->
-<!-- ## Previous member-->
+{% endcomment %}
+{% comment %} ## Previous member{% endcomment %}
 
-<!--
+{% comment %}
 {% include team_member.liquid
    name="Dr. Alumni Name"
    title="Postdoctoral Fellow (2020-2023)"
@@ -89,9 +89,9 @@ toc:
    image="alumni2.jpg"
    current_position="Current position and institution"
    research="Brief description of research focus" %}
--->
+{% endcomment %}
 
-<!--
+{% comment %}
 {% include team_member.liquid
    name="Dr. Alumni Name"
    title="PhD Student (2018-2023)"
@@ -105,9 +105,9 @@ toc:
    image="alumni4.jpg"
    current_position="Current position and institution"
    thesis="Thesis title" %}
--->
+{% endcomment %}
 
-<!--
+{% comment %}
 {% include team_member.liquid
    name="Student Name"
    title="Undergraduate Researcher (2022-2024)"
@@ -119,7 +119,7 @@ toc:
    title="Undergraduate Researcher (2021-2023)"
    image="alumni6.jpg"
    current_position="Current position and institution" %}
--->
+{% endcomment %}
 
 ---
 
