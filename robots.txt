@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fengqq.github.io/fengqqhome/sitemap.xml
+Sitemap: https://fengqq.github.io/fengqqhomepage/sitemap.xml
