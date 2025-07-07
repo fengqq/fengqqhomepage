@@ -15,9 +15,7 @@
         </div>
       </div>
       <div class="col-md-9 col-sm-8 col-12">
-    {% else %}
-      <div class="col-12">
-    {% endif %}
+    <div class="col-md-9 col-sm-8 col-12">
         <h4 class="mb-2">{{ include.name }}</h4>
         <p class="text-muted mb-2"><em>{{ include.title }}</em></p>
         {% if include.research %}
@@ -36,6 +34,27 @@
           <p class="mb-1"><strong>Thesis:</strong> {{ include.thesis }}</p>
         {% endif %}
       </div>
+    {% else %}
+      <div class="col-12">
+        <h4 class="mb-2">{{ include.name }}</h4>
+        <p class="text-muted mb-2"><em>{{ include.title }}</em></p>
+        {% if include.research %}
+          <p class="mb-1"><strong>Research:</strong> {{ include.research }}</p>
+        {% endif %}
+        {% if include.email %}
+          <p class="mb-1"><strong>Email:</strong> <a href="mailto:{{ include.email }}">{{ include.email }}</a></p>
+        {% endif %}
+        {% if include.website %}
+          <p class="mb-1"><strong>Website:</strong> <a href="{{ include.website }}" target="_blank">{{ include.website }}</a></p>
+        {% endif %}
+        {% if include.current_position %}
+          <p class="mb-1"><strong>Current Position:</strong> {{ include.current_position }}</p>
+        {% endif %}
+        {% if include.thesis %}
+          <p class="mb-1"><strong>Thesis:</strong> {{ include.thesis }}</p>
+        {% endif %}
+      </div>
+    {% endif %}
   </div>
 </div>
 
