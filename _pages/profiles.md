@@ -9,13 +9,13 @@ toc:
   sidebar: left
 ---
 
-## Current Team
+## Current
 
 {% include team_member.liquid
    name="Qiang Feng, PhD"
    title="Assistant Professor"
    image="prof_pic.jpg"
-   research="Tumor immune metabolism, pH-responsive nanoparticles, cancer immunotherapy, Single-cell metabolic technology"%}
+   research="Tumor immune metabolism, pH-responsive nanoparticles, cancer immunotherapy, Single-cell metabolism"%}
 
 {% comment %}
 **PhD Students**
@@ -129,14 +129,12 @@ We are always looking for motivated students and researchers to join us!
 
 **Current Openings:**
 
-- PhD students in Biomedical Engineering
-- Postdoctoral researchers in cancer immunotherapy
+- PhD students
+- Postdoctoral researchers
 - Undergraduate research assistants
 
 **Research Areas:**
 
 - Tumor immune metabolism
-- pH-responsive drug delivery systems
-- Microfluidics and nanotechnology
 - Cancer immunotherapy
-- Biomaterials for cancer therapy
+- Single cell technology

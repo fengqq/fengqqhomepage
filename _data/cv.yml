@@ -18,7 +18,7 @@
     - My research centers on exploring the abundance and immunological functions of key metabolites in tumors. By designing multi-chromatic pH nanosensors with high spatial resolution, I uncovered the presence of severely polarized acidity (pHe<5.3) around tumor cells—more than one order of magnitude higher than previous understanding (Nature Biomed. Eng. 2024).    - By combining insights from cancer biology, clinical observations, and immune metabolism, I demonstrated that severe acidity is an underestimated immunosuppressor, while sodium lactate, as its anionic counterpart, plays a previously unrecognized immune-protective role (Nature Commun. 2022).
       I further led the development of multiple acidity-targeted immunotherapy nanodrugs and tumor metabolism-regulating immune adjuvants based on these findings.
       To date, I have published over 30 peer-reviewed papers in leading journals such as Nature Biomed. Eng. and Nature Commun., accumulating over 4,000 citations. I have also filed three patents for my discoveries.
-      In addition to the scientific innovation, I have also mentored students from diverse backgrounds and will continue to train a diverse group of young scientists, providing them with the tools and mentorship to succeed in cancer research.
+      In addition to the scientific innovation, I have also mentored students from diverse backgrounds and will continue to train young scientists, providing them with the tools and mentorship to succeed in cancer research.
 
 - title: Education
   type: time_table
@@ -38,8 +38,6 @@
     - title: BS in Pharmaceutical Sciences
       institution: Peking University, Beijing, China
       year: 2008-2012
-      description:
-        - Graduated with honors
 
 - title: Professional Experience
   type: time_table
@@ -48,14 +46,13 @@
       institution: University of Texas Southwestern Medical Center, Dallas, United States
       year: 2024 - Present
       description:
-        - Leading research in tumor immune metabolism and acidity-targeted immunotherapy
+        - Leading research in tumor immune metabolism at single cell resolution
         - Developing novel nanodrugs and immune adjuvants for cancer therapy
         - Mentoring graduate students and postdoctoral researchers
     - title: Research Scientist
       institution: University of Texas Southwestern Medical Center, Dallas, United States
       year: 2023 - 2024
       description:
-        - Advanced research in tumor immune metabolism and cytokine therapy
         - Developed tumor-targeted cytokine therapy with large therapeutic window
     - title: Postdoctoral Fellow
       institution: University of Texas Southwestern Medical Center, Dallas, United States
@@ -87,20 +84,17 @@
   contents:
     - title: Tumor Immune Metabolism
       items:
-        - Multi-chromatic pH nanosensors with high spatial resolution
-        - Severely polarized acidity around tumor cells
-        - Immunosuppressive effects of tumor acidity
-        - Immune-protective role of sodium lactate
+        - Probing metabolite dynamics at the single-cell level.
+        - Investigating the immunological functions of key metabolites.
     - title: Cancer Immunotherapy
       items:
-        - Acidity-targeted immunotherapy nanodrugs
+        - Acidity-targeted immunotherapy
         - Tumor metabolism-regulating immune adjuvants
-        - Tumor-targeted cytokine therapy
-        - pH-responsive drug delivery systems
+        - Cytokine therapy
     - title: Microfluidics and Nanotechnology
       items:
         - Microfluidic synthesis of functional nanoparticles
-        - Size-controlled fabrication of nanoparticles
+        - Strucuture-controlled fabrication of nanoparticles
         - Bio-nano interactions and biological functionalities
 
 - title: Selected Publications
@@ -140,8 +134,7 @@
       institution: Angewandte Chemie International Edition
       year: 2015
       description:
-        - Pioneered microfluidic approach for nanoparticle synthesis
-        - Achieved precise control over particle size and composition
+        - Pioneered microfluidic approach for encapulation of hydrophilic reagents
 
 - title: Honors and Awards
   type: time_table

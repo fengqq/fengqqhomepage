@@ -3,9 +3,9 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <a href='#'>Department of Biomedical Engineering</a><br>
-  <a href='#'>Simmons Comprehensive Cancer Center</a><br>
-  <a href='#'>University of Texas Southwestern Medical Center</a>
+  <a href='https://www.utsouthwestern.edu/departments/biomedical-engineering/'>Department of Biomedical Engineering</a><br>
+  <a href='https://www.utsouthwestern.edu/departments/simmons/'>Simmons Comprehensive Cancer Center</a><br>
+  <a href='https://www.utsouthwestern.edu/'>University of Texas Southwestern Medical Center</a>
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>6000 Harry Hines Blvd, NL7.120</p>
-    <p>Dallas, Texas 75235</p>
+    <p>Dallas, Texas, 75235</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

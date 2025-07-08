@@ -25,10 +25,6 @@ The goal is to break down barriers and create inclusive spaces where people from
 
 ## Key Initiatives
 
-- **High School Research Programs**: Direct involvement of students in ongoing research projects with mentorship from graduate students and postdocs
-- **Citizen Science Platforms**: User-friendly tools that allow public participation in data collection and analysis
-- **Interactive Learning Modules**: Gamified experiences that teach complex scientific concepts through hands-on activities
-- **Community Science Events**: Workshops, hackathons, and collaborative projects open to all skill levels
 - **Mentorship Networks**: Connecting experienced researchers with newcomers to science
 
 ## Target Audiences

@@ -8,10 +8,11 @@ category: fun
 # related_publications: true
 ---
 
-Single cell analysis has revolutionized our understanding of cellular heterogeneity and disease mechanisms. However, the computational complexity and technical barriers associated with analyzing large-scale single cell datasets often limit accessibility for researchers without extensive coding experience.
+Single-cell analysis has transformed our understanding of cellular heterogeneity and disease mechanisms. However, the computational complexity and technical challenges of analyzing large-scale single-cell datasets often limit access for researchers without extensive coding experience. Additionally, the design of broad, all-in-one toolkits can constrain the targeted investigation of specific biological questions tailored to the researcher’s needs.
 
-I am developing comprehensive toolkits that democratize single cell research by eliminating the need for programming skills while maintaining analytical rigor. These platforms provide intuitive graphical interfaces for data preprocessing, quality control, dimensionality reduction, clustering, and visualization of single cell transcriptomics, proteomics, and spatial transcriptomics datasets.
+To address these limitations, I am developing comprehensive toolkits that democratize single-cell research by removing the need for programming expertise while preserving analytical rigor. These platforms offer intuitive graphical interfaces for data generation, integration, preprocessing, quality control, dimensionality reduction, clustering, and visualization across single-cell transcriptomics, proteomics, and spatial transcriptomics datasets.
 
+{% comment %}
 ## iSNAP: Interactive Single-cell No-coding Analysis Pipeline
 
 iSNAP is a user-friendly platform that provides a complete workflow for single cell data analysis without requiring any coding expertise. The platform incorporates automated workflows for common analysis tasks while maintaining flexibility for advanced users.
@@ -70,6 +71,7 @@ MASK2SC is a protocol for integrating external information with Xenium spatial t
 - **Drug Discovery**: Target identification and mechanism of action studies
 - **Clinical Research**: Patient stratification and precision medicine approaches
 - **Spatial Biology**: Tissue architecture and cellular microenvironment analysis
+{% endcomment %}
 
 ## Impact and Accessibility
 
