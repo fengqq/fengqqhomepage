@@ -22,10 +22,4 @@ Despite the growing importance of big data and AI in biology, access to research
 
 If biology is to benefit from its ongoing data revolution, we need to think beyond the data itself. That means building more intuitive tools, offering mentorship and early exposure, and designing systems that allow great ideas—regardless of where they come from—to be tested, refined, and shared. Discovery should be challenging, yes. But not exclusive.
 
-<div class="row justify-content-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/post/barrier.png" alt="Barriers in science education and research accessibility" title="Breaking down barriers in science"/>
-  </div>
-</div>
-
 ### Can we open the box for everyone?
